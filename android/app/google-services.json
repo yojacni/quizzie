@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "478320911208",
+    "project_id": "quizzie-prod",
+    "storage_bucket": "quizzie-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478320911208:android:090c7ad7fec88fbe5b2cdd",
+        "android_client_info": {
+          "package_name": "com.yojacnidev.quizzie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478320911208-a87va043d1fhjsp90vunkaeggfbanr60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN1-otfV4O1UoPDqhdwIZeg6c1lMdnC-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478320911208-a87va043d1fhjsp90vunkaeggfbanr60.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "478320911208-d3tekphmhh6qt2iv95m1k3f94od2mptg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yojacnidev.quizzie.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478320911208:android:0cae7cb40e35b1365b2cdd",
+        "android_client_info": {
+          "package_name": "com.yojacnidev.quizzie.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478320911208-a87va043d1fhjsp90vunkaeggfbanr60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN1-otfV4O1UoPDqhdwIZeg6c1lMdnC-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478320911208-a87va043d1fhjsp90vunkaeggfbanr60.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "478320911208-d3tekphmhh6qt2iv95m1k3f94od2mptg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yojacnidev.quizzie.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478320911208:android:d7e246653c3d14525b2cdd",
+        "android_client_info": {
+          "package_name": "com.yojacnidev.quizzie.stg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478320911208-a87va043d1fhjsp90vunkaeggfbanr60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN1-otfV4O1UoPDqhdwIZeg6c1lMdnC-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478320911208-a87va043d1fhjsp90vunkaeggfbanr60.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "478320911208-d3tekphmhh6qt2iv95m1k3f94od2mptg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yojacnidev.quizzie.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
